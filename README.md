@@ -112,7 +112,7 @@ _______________________________________________________________________
 -	Premium neighborhoods command substantially higher rates.
 -	Location is one of the strongest determinants of Airbnb pricing.
 -	Availability shows an inverse relationship with price in many cases, suggesting higher-priced listings experience stronger demand.
--       Highly reviewed listings are the least expensive listings, while rarely reviewed listings are the most expensive.
+-	Highly reviewed listings are the least expensive listings, while rarely reviewed listings are the most expensive.
 ### Room Type Insights
 -	Entire Home/Apt listings are the most expensive accommodation type.
 -	Private Rooms represent a large portion of the market and offer lower-cost alternatives. They have the best balance between affordability and customer engagement. Private rooms are also more popular in all the boroughs except Manhattan.
@@ -123,7 +123,7 @@ _______________________________________________________________________
 -	Multi-property hosts contribute significantly to overall market supply.
 -	Certain hosts operate on a commercial scale rather than as occasional renters.
 -	Host activity is concentrated in major boroughs with high tourism demand.
--       Michael is the host with the most listings while Sonder (Nyc) generates the most revenue among the hosts.
+-	Michael is the host with the most listings while Sonder (Nyc) generates the most revenue among the hosts.
 ### Review Insights
 -	Listings with strong review activity generally indicates higher customer engagement.
 -	Reviews can influence booking performance and perceived value.
