@@ -42,14 +42,15 @@ _______________________________________________________________________
 Several preprocessing steps were performed before analysis:
 1. Imported the dataset using Power Query.
 2. Identified and Removed errors and null values in:
+   
         -	host_id
         -	host_name
         -	longitude
         -	last_review
         -	reviews_per_month
-3. Normalized data in the "name" column.
-4. Verified data types for dates, numbers, and text fields.
-5. Added new columns to the dataset:
+4. Normalized data in the "name" column.
+5. Verified data types for dates, numbers, and text fields.
+6. Added new columns to the dataset:
         -	availability_range
         -	review_range
 _______________________________________________________________________
