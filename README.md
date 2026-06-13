@@ -16,6 +16,7 @@ The main objectives of this analysis were to:
 _______________________________________________________________________
 ## Dataset Description
 Data Source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data.
+
 The dataset contains Airbnb listings across New York City in 2019.
 Key Variables
 | Variable | Description |
