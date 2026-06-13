@@ -59,16 +59,13 @@ _______________________________________________________________________
 The analysis was performed primarily using Pivot Tables and Pivot Charts.
 The following analytical questions were investigated:
 ### Pricing Analysis
-1. Which neighborhoods and boroughs have the highest Airbnb prices?
-
+1. Which neighborhoods and boroughs have the highest Airbnb prices?  
 Median pricing was analyzed across neighborhoods and boroughs to identify premium Airbnb markets.
 
-2. What is the relationship between availability and price?
-
+2. What is the relationship between availability and price?  
 Listings were grouped by availability ranges and compared against average pricing to identify occupancy and demand patterns.
 
-3. Are highly reviewed listings more expensive?
-
+3. Are highly reviewed listings more expensive?  
 Average prices were compared across review categories to understand whether highly reviewed listings command premium rates.
 _______________________________________________________________________
 ### Room Type Analysis
@@ -91,13 +88,13 @@ Room types were grouped by median pricing and compared against average number of
 Room type counts were analyzed by borough to identify regional preferences.
 _______________________________________________________________________
 ### Host Analysis
-1. Who owns the most listings?
+1. Who owns the most listings?  
 Hosts were ranked according to the number of listings managed.
 
-2. Which hosts generate the highest potential revenue?
+2. Which hosts generate the highest potential revenue?  
 Revenue estimates were calculated using listing prices and host portfolios.
 
-3. What percentage of listings belong to multi-property hosts?
+3. What percentage of listings belong to multi-property hosts?  
 Hosts were categorized into:
 
         -	Single-property hosts
@@ -105,7 +102,7 @@ Hosts were categorized into:
    
 to evaluate market concentration.
 
-5. How are host listings distributed across boroughs?
+5. How are host listings distributed across boroughs?  
 Host activity was analyzed geographically.
 _______________________________________________________________________
 ## Key Findings
