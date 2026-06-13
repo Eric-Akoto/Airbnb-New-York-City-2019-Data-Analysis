@@ -40,16 +40,16 @@ Key Variables
 _______________________________________________________________________
 ## Data Cleaning and Preparation
 Several preprocessing steps were performed before analysis:
--	Imported the dataset using Power Query.
--	Identified and Removed errors and null values in:
+1. Imported the dataset using Power Query.
+2. Identified and Removed errors and null values in:
         -	host_id
         -	host_name
         -	longitude
         -	last_review
         -	reviews_per_month
--	Normalized data in the "name" column.
--	Verified data types for dates, numbers, and text fields.
--	Added new columns to the dataset:
+3. Normalized data in the "name" column.
+4. Verified data types for dates, numbers, and text fields.
+5. Added new columns to the dataset:
         -	availability_range
         -	review_range
 _______________________________________________________________________
@@ -69,18 +69,19 @@ _______________________________________________________________________
 ### Room Type Analysis
 1. Which room type is most common?
 The distribution of:
--	Entire Home/Apt
--	Private Room
--	Shared Room
+        -	Entire Home/Apt
+        -	Private Room
+        -	Shared Room
+   
 was analyzed to determine market composition.
 
-2. How does room type affect pricing ine each borough?
+3. How does room type affect pricing ine each borough?
 Room types were compared using median prices to determine how accommodation style influences listing value across boroughs.
 
-3. Which room type has the best balance between affordability and reviews?
+4. Which room type has the best balance between affordability and reviews?
 Room types were grouped by median pricing and compared against average number of reviews to identify the room type with the best balance between affordability and customer engagement.
 
-4. How are room types distributed across boroughs?
+5. How are room types distributed across boroughs?
 Room type counts were analyzed by borough to identify regional preferences.
 _______________________________________________________________________
 ### Host Analysis
@@ -92,11 +93,12 @@ Revenue estimates were calculated using listing prices and host portfolios.
 
 3. What percentage of listings belong to multi-property hosts?
 Hosts were categorized into:
--	Single-property hosts
--	Multi-property hosts
+        -	Single-property hosts
+        -	Multi-property hosts
+   
 to evaluate market concentration.
 
-4. How are host listings distributed across boroughs?
+5. How are host listings distributed across boroughs?
 Host activity was analyzed geographically.
 _______________________________________________________________________
 ## Key Findings
