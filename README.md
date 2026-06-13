@@ -51,6 +51,7 @@ Several preprocessing steps were performed before analysis:
 4. Normalized data in the "name" column.
 5. Verified data types for dates, numbers, and text fields.
 6. Added new columns to the dataset:
+   
         -	availability_range
         -	review_range
 _______________________________________________________________________
@@ -69,7 +70,9 @@ Average prices were compared across review categories to understand whether high
 _______________________________________________________________________
 ### Room Type Analysis
 1. Which room type is most common?
+   
 The distribution of:
+
         -	Entire Home/Apt
         -	Private Room
         -	Shared Room
@@ -94,6 +97,7 @@ Revenue estimates were calculated using listing prices and host portfolios.
 
 3. What percentage of listings belong to multi-property hosts?
 Hosts were categorized into:
+
         -	Single-property hosts
         -	Multi-property hosts
    
