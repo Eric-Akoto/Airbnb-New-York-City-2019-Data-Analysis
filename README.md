@@ -48,9 +48,9 @@ Several preprocessing steps were performed before analysis:
         -	longitude
         -	last_review
         -	reviews_per_month
-4. Normalized data in the "name" column.
-5. Verified data types for dates, numbers, and text fields.
-6. Added new columns to the dataset:
+3. Normalized data in the "name" column.
+4. Verified data types for dates, numbers, and text fields.
+5. Added new columns to the dataset:
    
         -	availability_range
         -	review_range
@@ -60,17 +60,19 @@ The analysis was performed primarily using Pivot Tables and Pivot Charts.
 The following analytical questions were investigated:
 ### Pricing Analysis
 1. Which neighborhoods and boroughs have the highest Airbnb prices?
+
 Median pricing was analyzed across neighborhoods and boroughs to identify premium Airbnb markets.
 
 2. What is the relationship between availability and price?
+
 Listings were grouped by availability ranges and compared against average pricing to identify occupancy and demand patterns.
 
 3. Are highly reviewed listings more expensive?
+
 Average prices were compared across review categories to understand whether highly reviewed listings command premium rates.
 _______________________________________________________________________
 ### Room Type Analysis
-1. Which room type is most common?
-   
+1. Which room type is most common?  
 The distribution of:
 
         -	Entire Home/Apt
@@ -79,13 +81,13 @@ The distribution of:
    
 was analyzed to determine market composition.
 
-3. How does room type affect pricing ine each borough?
+2. How does room type affect pricing ine each borough?  
 Room types were compared using median prices to determine how accommodation style influences listing value across boroughs.
 
-4. Which room type has the best balance between affordability and reviews?
+3. Which room type has the best balance between affordability and reviews?  
 Room types were grouped by median pricing and compared against average number of reviews to identify the room type with the best balance between affordability and customer engagement.
 
-5. How are room types distributed across boroughs?
+4. How are room types distributed across boroughs?  
 Room type counts were analyzed by borough to identify regional preferences.
 _______________________________________________________________________
 ### Host Analysis
